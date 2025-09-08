@@ -2,6 +2,9 @@
 
 A classic 9x9 Sudoku game built with HTML, CSS, and JavaScript. This implementation features a clean, responsive interface with game controls, difficulty levels, and validation.
 
+## Live Demo
+
+You can view a live version of this tool at [(https://kanai6344.github.io/Sudoku-game/)]
 
 # Features
 - Complete Sudoku Gameplay: Fill the 9x9 grid according to Sudoku rules
