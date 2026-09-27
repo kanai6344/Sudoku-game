@@ -13,8 +13,8 @@ You can view a live version of this tool at [(https://kanai6344.github.io/Sudoku
 - Visual Feedback: Highlights selected cells, errors, and fixed numbers
 - 
 Game Controls:
-Check solution for errors
 Solve the entire puzzle
+Check solution for errors
 Start a new game
 
 
